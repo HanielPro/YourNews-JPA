@@ -2,7 +2,7 @@
 Bem vindo ao YourNews! Seu portal de notícias, sempre Atualizado!
 
 <div align="center">
-    <img height="280px" width="60%" src="./assets/img/principal.png" alt="Imagem principal">
+    <img height="280px" width="400px" src="./assets/img/principal.png" alt="Imagem principal">
     <p>Imagem gerada pelo <a href="https://leonardo.ai/">leonardo.ai</a></p>
 </div>
 
@@ -44,8 +44,8 @@ O **YourNews** tem como objetivo desenvolver um sistema de notícias utilizando 
 <img src="https://avatars.githubusercontent.com/GeorgeLimaDev" alt="Allan Alves" width="100" height="100"></td>
 </a>
 <td align="center">
-<a href="https://github.com/HanielCosta">
-<img src="https://avatars.githubusercontent.com/HanielCostaDaSilva" alt="Haniel Costa" width="100" height="100"></td>
+<a href="https://github.com/HanielPro">
+<img src="https://avatars.githubusercontent.com/HanielPro" alt="Haniel Costa" width="100" height="100"></td>
 </a>
 </tr>
 <tr>
